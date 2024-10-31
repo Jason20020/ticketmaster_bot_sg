@@ -1,0 +1,5 @@
+selenium
+undetected_chromedriver
+twocaptcha
+disutils
+2captcha-python
